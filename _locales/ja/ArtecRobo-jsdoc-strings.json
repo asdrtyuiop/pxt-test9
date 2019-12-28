@@ -1,0 +1,5 @@
+{
+  "artecrobo": "Control Package for ArtecRobo"
+  ,"artecrobo.moveDCMotor|block": "DCモーターを動かすもしくは止める"
+  ,"artecrobo.setSpeedDCMotor|block": "DCモーターの速度を指定する"
+}
